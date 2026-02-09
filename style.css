@@ -765,12 +765,12 @@
     gap: 80px;
 }
 
-.datafam-video {
+.datafam-image {
     width: 55%;
     position: relative;
 }
 
-.datafam-video img {
+.datafam-image img {
     width: 100%;
     border-radius: 20px;
     box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
