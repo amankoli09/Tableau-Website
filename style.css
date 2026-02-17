@@ -128,12 +128,10 @@
     position: absolute;
     top: 0;
     left: 100%;
-
     background: #ffffff;
     list-style: none;
     padding: 10px 0;
     min-width: 240px;
-
     display: none;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
     z-index: 3000;
