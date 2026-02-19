@@ -1,7 +1,11 @@
 # 🚀 Tableau Website Replica  
 
 <p align="center">
-  <img src="https://avatars.slack-edge.com/2021-07-28/2335856319233_b1f6442290972bfa5498_512.png" width="120" />
+  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="170" />
+</p>
+
+<p align="center">
+  <b>Turning data into clear, visual insights</b>
 </p>
 
 <p align="center">
@@ -13,7 +17,7 @@
 ## 🌐 Live Website  
 
 🔗 **View Project:**  
-https://6989cafcddbc2ae64913afa7--tableaurep.netlify.app/
+https://tableau-website.vercel.app/
 
 ---
 
@@ -49,7 +53,7 @@ This is an independent front-end implementation created for learning and design 
 - HTML5 – Structure  
 - CSS3 – Styling & Layout  
 - Git & GitHub – Version Control  
-- Netlify – Deployment  
+- Vercel – Deployment  
 
 ---
 
